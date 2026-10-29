@@ -30,10 +30,6 @@ I configured the VirtualBox clipboard and drag-and-drop settings to Bidirectiona
 
 **3. Unknown Command – ip:** When I initially entered the `ip` command, Kali did not recognise it. This was because I was initially at the GRUB rescue screen rather than inside the Kali Linux terminal. The command must be executed after Kali has successfully booted.
 
-## Virtual Machine Snapshot
-
-A snapshot will be created once the network, IP address and other settings have been successfully configured and tested. This will save the current state of Kali Linux and allow me to restore it if something goes wrong.
-
 ## Conclusion
 
 This project helped me learn how to install Kali Linux, configure virtual networking, understand IP addressing and troubleshoot common VirtualBox and booting problems. It also gave me practical experience setting up a basic cybersecurity lab.
